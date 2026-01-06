@@ -19,3 +19,11 @@ https://doi.org/10.1007/s00138-024-01594-4
 
 A detailed walkthrough of the code is available here:  
 https://youtu.be/Zv_d28XeWFc?si=4-9ERZR77axTCBW7
+
+---
+
+### Dependencies:
+
+ultralytics       
+opencv-python      
+numpy
