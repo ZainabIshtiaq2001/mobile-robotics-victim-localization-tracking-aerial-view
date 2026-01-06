@@ -1,10 +1,21 @@
-# mobile-robotics-victim-localization-tracking-aerial-view
+# Mobile Robotics – Victim Localization & Tracking (Aerial View)
 
-In this project i have simulated the paper: "Camera based mapping in SAR via flying and ground robots (https://doi.org/10.1007/s00138-024-01594-4)
+This project simulates the paper:
 
-The 3 core stages are:
-  1- Victim Detection using YOLO8n
-  2- Victim Localization using opencv
-  3- Victim Tracking using a Kalman Filter
+**Camera-Based Mapping in SAR via Flying and Ground Robots**  
+https://doi.org/10.1007/s00138-024-01594-4
 
-Here is the link the video explaining the code: https://youtu.be/Zv_d28XeWFc?si=4-9ERZR77axTCBW7
+---
+
+## Core Stages
+
+1. **Victim Detection** – YOLOv8-n  
+2. **Victim Localization** – OpenCV  
+3. **Victim Tracking** – Kalman Filter  
+
+---
+
+## Video Demonstration
+
+A detailed walkthrough of the code is available here:  
+https://youtu.be/Zv_d28XeWFc?si=4-9ERZR77axTCBW7
